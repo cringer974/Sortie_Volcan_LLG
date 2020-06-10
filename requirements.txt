@@ -1,5 +1,3 @@
-IPython.display
-
 folium
 
 pyroutelib3
