@@ -3,3 +3,5 @@ folium
 pyroutelib3
 
 pandas
+
+matplotlib.pyplot
